@@ -41,6 +41,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C23EE5E92B14E112000B82F1 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				C29A18632B14C7DB000C6196 /* Main.storyboard */,
+				C29A18682B14C7DC000C6196 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
 		C24740F02B14DD5D0089654F /* View(controller) */ = {
 			isa = PBXGroup;
 			children = (
@@ -90,8 +99,7 @@
 				C24740F02B14DD5D0089654F /* View(controller) */,
 				C24740F32B14DD7C0089654F /* ViewModel */,
 				C29A18662B14C7DC000C6196 /* Assets.xcassets */,
-				C29A18632B14C7DB000C6196 /* Main.storyboard */,
-				C29A18682B14C7DC000C6196 /* LaunchScreen.storyboard */,
+				C23EE5E92B14E112000B82F1 /* Storyboards */,
 				C29A186B2B14C7DC000C6196 /* Info.plist */,
 			);
 			path = "MVVM+Combine";
